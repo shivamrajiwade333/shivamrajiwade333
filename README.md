@@ -1,6 +1,6 @@
+[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
 
-
-<h1 align="center">Hi 👋, I'm Abhinendra Singh</h1>
+<h1 align="center">Hi 👋, I'm Shivam Rajiwade</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 
@@ -9,13 +9,8 @@
 <img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
 ###
-- 🔭 I’m currently working on **Backend**
-  
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
-
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
-
-- 📫 How to reach me **abhinendrayadav3@gmail.com**
+Passionate Full Stack Developer skilled in Python, Java, React, Node.js, MongoDB, Machine Learning, AWS, and AI application development.
+- 📫 How to reach me **shivamrajiwade1086@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
